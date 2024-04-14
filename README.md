@@ -1,2 +1,1 @@
-# facemask-detection
-detection of facemask
+# mask-alert-tf-js

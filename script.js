@@ -80,7 +80,7 @@ function play(){
 
 function action(pred_class, pred_score){
     if (pred_class=='No Mask' && pred_score>0.5){
-        play();
+       System.out.println("Good day.");
     }
 
 }
